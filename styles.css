@@ -1,0 +1,11 @@
+body {
+  background-color: linen;
+}
+h2,
+h3 {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-family: Playfair Display, sans-serif;
+  font-weight: bold;
+}
