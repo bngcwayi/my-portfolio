@@ -83,8 +83,26 @@ p {
 .work-section h3 {
   margin-top: 70px;
   font-size: 40px;
+  font-family: var(--heading-font-family);
+}
+.work-section h4 {
+  font-family: var(--default-font-family);
 }
 
+.contact-content {
+  text-align: center;
+  padding: 80px 20px;
+}
+.contact-content h2 {
+  margin-top: 70px;
+  font-size: 50px;
+  font-family: var(--heading-font-family);
+  padding: 10px;
+}
+.contact-content p,
+h4 {
+  font-family: var(--default-font-family);
+}
 @media (max-width: 960px) {
   .project-description {
     padding: 0;
