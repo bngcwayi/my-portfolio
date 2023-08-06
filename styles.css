@@ -76,6 +76,15 @@ p {
 .about-section-content {
   margin: 30px;
 }
+.work-section {
+  text-align: center;
+  padding: 80px 20px;
+}
+.work-section h3 {
+  margin-top: 70px;
+  font-size: 40px;
+}
+
 @media (max-width: 960px) {
   .project-description {
     padding: 0;
