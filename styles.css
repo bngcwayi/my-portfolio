@@ -55,6 +55,27 @@ p {
   line-height: 27px;
   padding: 15px 30px;
 }
+.about-section {
+  text-align: center;
+  padding: 80px 20px;
+}
+.about-section h1 {
+  font-size: 40px;
+  padding: 10px;
+  margin: 0;
+}
+.about-section h4 {
+  font-family: var(--default-font-family);
+  padding: 10px;
+  margin: 0;
+}
+.about-section p {
+  padding: 10px;
+  margin: 0;
+}
+.about-section-content {
+  margin: 30px;
+}
 @media (max-width: 960px) {
   .project-description {
     padding: 0;
