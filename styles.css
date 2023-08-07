@@ -132,6 +132,9 @@ nav li {
 footer {
   background: #fff4f4;
 }
+footer p {
+  font-family: var(--default-font-family);
+}
 .fa-github {
   font-size: 80px;
   color: #000;
