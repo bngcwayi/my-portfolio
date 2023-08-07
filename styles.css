@@ -128,10 +128,14 @@ nav li {
   display: inline;
   padding: 20px;
 }
-/* github icon styling */
+/* github icon styling and footer */
+footer {
+  background: #fff4f4;
+}
 .fa-github {
   font-size: 80px;
   color: #000;
+  text-align: center;
 }
 /* the work media queries */
 @media (max-width: 960px) {
