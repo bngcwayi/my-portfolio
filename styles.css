@@ -115,6 +115,7 @@ nav a {
   font-size: 20px;
   color: #000;
   transition: all 100ms ease-in-out;
+  margin: 20px;
 }
 nav ul {
   list-style-type: none;
@@ -126,6 +127,11 @@ nav ul {
 nav li {
   display: inline;
   padding: 20px;
+}
+/* github icon styling */
+.fa-github {
+  font-size: 80px;
+  color: #000;
 }
 /* the work media queries */
 @media (max-width: 960px) {
