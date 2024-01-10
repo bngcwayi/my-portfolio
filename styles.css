@@ -17,13 +17,13 @@ h1 {
   line-height: 1.5;
 }
 .hero {
-  background: #ef9595;
+  background: #ffdfdf;
   text-align: center;
   padding: 50px 20px;
 }
 .hero p {
   font-family: var(--default-font-family);
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bold;
   margin: 0;
   line-height: 1.5;
@@ -42,7 +42,7 @@ h1 {
   padding: 15px 30px;
 }
 h2 {
-  font-size: 55px;
+  font-size: 40px;
   font-weight: bold;
   font-family: var(--heading-font-family);
 }
@@ -124,12 +124,12 @@ h4 {
   color: #f402c2;
 }
 form {
-  width: 300px;
+  width: 100px;
 }
 
 /* Navbar css styling */
 .container-nav {
-  background: #ef9595;
+  background: #ffdfdf;
 }
 nav a {
   text-decoration: none;
@@ -152,7 +152,7 @@ nav li {
 }
 /* github icon styling and footer */
 footer {
-  background: #ef9595;
+  background: #ffdfdf;
 }
 footer p {
   font-family: var(--default-font-family);
@@ -161,6 +161,10 @@ footer p {
   font-size: 80px;
   color: #000;
   text-align: center;
+}
+/* BODY styling*/
+body {
+  background-color: #fcf8f8;
 }
 /* the work media queries */
 @media (max-width: 400px) {
