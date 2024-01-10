@@ -17,7 +17,7 @@ h1 {
   line-height: 1.5;
 }
 .hero {
-  background: #EF9595;
+  background: #ef9595;
   text-align: center;
   padding: 50px 20px;
 }
@@ -108,28 +108,28 @@ h4 {
   font-family: var(--default-font-family);
 }
 .social-icons {
-font-size: 3rem;
-padding: 2rem;
+  font-size: 3rem;
+  padding: 2rem;
 }
- .fa-linkedin {
-  color: #0A66C2;
+.fa-linkedin {
+  color: #0a66c2;
 }
-.fa-square-x-twitter{
-  color: #0F1419;
+.fa-square-x-twitter {
+  color: #0f1419;
 }
-.fa-facebook{
-  color: #0866FF;
+.fa-facebook {
+  color: #0866ff;
 }
 .fa-instagram {
-  color: #F402C2;
+  color: #f402c2;
 }
-form{
-  width:300px ;
+form {
+  width: 300px;
 }
 
 /* Navbar css styling */
 .container-nav {
-  background: #EF9595;
+  background: #ef9595;
 }
 nav a {
   text-decoration: none;
@@ -152,7 +152,7 @@ nav li {
 }
 /* github icon styling and footer */
 footer {
-  background: #EF9595;
+  background: #ef9595;
 }
 footer p {
   font-family: var(--default-font-family);
