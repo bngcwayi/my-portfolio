@@ -107,7 +107,6 @@ p {
 h4 {
   font-family: var(--default-font-family);
 }
-
 .social-icons {
 font-size: 3rem;
 padding: 2rem;
@@ -123,6 +122,9 @@ padding: 2rem;
 }
 .fa-instagram {
   color: #F402C2;
+}
+form{
+  width:300px ;
 }
 
 /* Navbar css styling */
