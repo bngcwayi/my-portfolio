@@ -141,7 +141,7 @@ footer p {
   text-align: center;
 }
 /* the work media queries */
-@media (max-width: 960px) {
+@media (max-width: 400px) {
   .project-description {
     padding: 0;
     text-align: center;
