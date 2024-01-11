@@ -123,35 +123,37 @@ h4 {
 .fa-instagram {
   color: #f402c2;
 }
+
 form {
-  width: 200px;
- 
+  font-family: var(--default-font-family);
+  font-size: 1rem;
+}
+input{
+  width: 100%;
+}
+input[type=text]{
+  padding:10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #555;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+}
+textarea {
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #555;
+  border-radius: 10px;
+  
+  resize:none;
+  background-color:#f1f1f1;
 }
 
-input[type=text]{
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-  border: 2px solid #555;
-  border-radius: 10px;
-  line-height: 1.5px;
-}
-textarea{
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-  border: 2px solid #555;
-  border-radius: 10px;
-  resize:none
-}
 button{
   border: 2px solid #555;
   border-radius: 10px;
-  width: 100%;
-  
-
- 
-
+  width: 20%;
 }
 
 /* Navbar css styling */
