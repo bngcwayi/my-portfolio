@@ -124,7 +124,34 @@ h4 {
   color: #f402c2;
 }
 form {
-  width: 100px;
+  width: 200px;
+ 
+}
+
+input[type=text]{
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #555;
+  border-radius: 10px;
+  line-height: 1.5px;
+}
+textarea{
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #555;
+  border-radius: 10px;
+  resize:none
+}
+button{
+  border: 2px solid #555;
+  border-radius: 10px;
+  width: 100%;
+  
+
+ 
+
 }
 
 /* Navbar css styling */
