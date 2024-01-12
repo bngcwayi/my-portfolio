@@ -206,7 +206,7 @@ body {
   margin: 0;
 }
 /* the work media queries */
-@media (max-width: 400px) {
+@media (max-width: 600px) {
   .project-description {
     padding: 0;
     text-align: center;
@@ -214,5 +214,29 @@ body {
   h1,
   h2 {
     font-size: 40px;
+  }
+
+  nav a {
+    font-size: 13px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .hero p , .hero h3{
+    font-size: 15px;
+    
+  }
+
+  .hero{
+    padding:10px;
+  }
+
+  .project-description h2{
+    font-size:18px;
+  }
+
+  .project-description a{
+    padding:8px;
+    font-size: small;
   }
 }
