@@ -239,4 +239,13 @@ body {
     padding:8px;
     font-size: small;
   }
+
+  .work-footer p{
+    font-size:5px;
+    color: red;
+  }
+
+  .fa-github{
+    font-size: 30px;
+  }
 }
